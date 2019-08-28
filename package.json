@@ -1,0 +1,11 @@
+{
+  "name": "flexbox-chess-board",
+  "version": "0.0.0",
+  "public": true,
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
