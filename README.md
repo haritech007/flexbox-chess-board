@@ -6,3 +6,6 @@ They create it using as they feel comfortable in. But they expect the solution u
 Source files:
 index.html,
 style.css
+
+Screenshot:
+![Screenshot Image](https://raw.githubusercontent.com/haritech007/flexbox-chess-board/master/flexbox-chessboard.png)
