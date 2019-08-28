@@ -1,0 +1,24 @@
+.board {
+   display: flex;
+   background: lightgray;
+   flex-wrap: wrap;
+   flex-direction: row;
+   width: 400px;
+}
+
+.board>div {
+   flex: 12.5%;
+   height: 50px;
+}
+
+.board>div:nth-child(even) {
+   background-color: #000;
+}
+
+.board>div:nth-child(odd) {
+   background: white;
+}
+
+.board>div:nth-child(9n+1) {
+   order: 2;
+}
