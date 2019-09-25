@@ -1,7 +1,6 @@
 # Flexbox Chess Board
-Creating a chessboard using flexbox. 
-Several times this question is asked to intermediate or experienced UI developer to create a chess-board UI using HTML and CSS.
-They create it using as they feel comfortable in. But they expect the solution using Flexbox.
+Creating a chessboard using CSS Flexbox. 
+Create a chessboard using CSS Flexbox. No JavaScript or jQuery or any other JavaScript library required. Using plain css it can be achieved. I have been asked this question at the interview help at Publicis Sapient.
 
 Source files:
 index.html,
