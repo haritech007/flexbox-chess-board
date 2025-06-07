@@ -1,3 +1,3 @@
 .notfound {
-  display: none;
+  display: none !important;
 }
